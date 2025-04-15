@@ -14,7 +14,7 @@ Each folder inside this repo corresponds to a **Day** in my learning path, start
 | Day | Topics Covered | Folder |
 |-----|----------------|--------|
 | 0   | Console, Variables, Prompt, Confirm | [Day 0](/Day_0) |
-| 1   | *Coming Soon*  | - |
+| 1   | Data Types, Typecasting, Hoisting, Conditionals & Loops  | [Day 1](/Day_1) |
 
 Stay tuned for more updates as I level up my JavaScript skills!
 
