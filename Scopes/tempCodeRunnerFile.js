@@ -1,2 +1,3 @@
 
-// console.log(b);
+user.username = "SAM"
+user.welcomeMessage()
