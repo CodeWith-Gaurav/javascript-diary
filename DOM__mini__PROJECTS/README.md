@@ -28,7 +28,7 @@ A BMI calculator that takes height and weight input from the user and shows the 
 
 **Preview:**
 
-![BMI Generator Screenshot](https://github.com/yourusername/javascript_diary/blob/main/DOM__mini__PROJECTS/BMI_generator/assets/bmi-generator-preview.png)
+![BMI Generator Screenshot](./BMI_generator/bmiCalci.png)
 
 🎥 [Watch a short video demo](https://your-video-demo-link.com)
 
